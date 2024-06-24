@@ -43,5 +43,5 @@ Environment Variables
       CLOUDINARY_API_KEY: The API key for your Cloudinary account.
       CLOUDINARY_API_SECRET: The API secret for your Cloudinary account.
 
-CContact
+Contact
 I    if you have any questions or need further assistance, please contact rkv51508@gmail.com.
